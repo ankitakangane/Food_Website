@@ -1,0 +1,10 @@
+.cards_container{
+    display:flex;
+    justify-content: space-around;
+}
+.food_name{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
