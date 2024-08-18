@@ -33,3 +33,22 @@
     object-fit: cover;
     border-radius: 5px;
 }
+.food_price{
+    font-size:20px;
+    text-align: center;
+}
+.food_butn{
+    border: none;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    padding:5px 10px;
+    display:block;
+    margin:5px auto;
+    background-color: rgb(230, 255, 250);
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.food_butn:hover{
+    background-color:rgb(179, 255, 240);
+}
